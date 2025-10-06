@@ -19,15 +19,6 @@ Key areas covered:
 - Data Aggregation and Segmentation
 - Git & GitHub for version control
 
-## 📂 Project Structure
-```text
-Ecommerce-SQL-Project/
-│
-├── data/      # CSV files
-├── scripts/   # SQL scripts
-└── README.md  # Project documentation
-```
-
 ### Customer, Product, and Sales Trends: Key Insights from 2010–2014
 
 ## 📈 Insights
@@ -45,6 +36,15 @@ Ecommerce-SQL-Project/
 - Overall, the data reveals a **wide but shallow customer base**, underscoring the need for **stronger retention strategies**.  
 
 > Insights guide strategy — focus on **retention campaigns** to convert new and regular buyers into VIPs, and craft **personalized offers** for top spenders to sustain growth.
+
+## 📂 Project Structure
+```text
+Ecommerce-SQL-Project/
+│
+├── data/      # CSV files
+├── scripts/   # SQL scripts
+└── README.md  # Project documentation
+```
 
 ## 🙌 Credits
 **Project Inspiration:** Adapted from the [SQL Data Analytics Project by DataWithBaraa](https://github.com/DataWithBaraa/sql-data-analytics-project). Full credit goes to the original author for providing the dataset, project structure, and analysis framework.
