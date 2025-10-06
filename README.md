@@ -1,4 +1,4 @@
-# 🛍️ E-commerce SQL Project
+# 🛍️ E-Commerce SQL Project
 
 This guided project dives into a rich online retail dataset to uncover hidden sales trends, customer behavior patterns, and business insights using SQL.
 
