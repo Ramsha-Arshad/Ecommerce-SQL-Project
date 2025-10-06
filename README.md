@@ -26,6 +26,7 @@ Ecommerce-SQL-Project/
 ├── data/      # CSV files
 ├── scripts/   # SQL scripts
 └── README.md  # Project documentation
+```
 
 ### Customer, Product, and Sales Trends: Key Insights from 2010–2014
 
@@ -48,7 +49,8 @@ Ecommerce-SQL-Project/
 ## 🙌 Credits
 **Project Inspiration:** Adapted from the [SQL Data Analytics Project by DataWithBaraa](https://github.com/DataWithBaraa/sql-data-analytics-project). Full credit goes to the original author for providing the dataset, project structure, and analysis framework.
 
-## 📬 Connect
+## 📬 Connect with me
 👩‍💻 **Created by:** Ramsha Arshad  
 🔗 www.linkedin.com/in/ramshaarshad
+✉️ email: ramsha_arshad467@hotmail.com
 
