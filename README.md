@@ -6,12 +6,12 @@ This guided project dives into a rich online retail dataset to uncover hidden sa
 The goal of this analysis is to practice advanced SQL techniques and generate meaningful insights from real-world e-commerce data.
 
 Key areas covered:
-1. Data Exploration and Cleaning  
-2. Time-Based Sales Trends  
-3. Product and Category Performance  
-4. Cumulative and Moving Averages  
-5. Part-to-Whole Analysis  
-6. Customer Segmentation and Reports  
+- Data Exploration and Cleaning  
+- Time-Based Sales Trends  
+- Product and Category Performance  
+- Cumulative and Moving Averages  
+- Part-to-Whole Analysis  
+- Customer Segmentation and Reports  
 
 ## 🧠 Skills & Tools Used
 - SQL (MySQL Workbench)
