@@ -1,7 +1,5 @@
 # 🛍️ E-commerce SQL Project
 
-# 🛍️ E-commerce SQL Project: Sales & Customer Insights
-
 This guided project dives into a rich online retail dataset to uncover hidden sales trends, customer behavior patterns, and business insights using SQL.
 
 ## 📊 Project Overview
@@ -22,11 +20,12 @@ Key areas covered:
 - Git & GitHub for version control
 
 ## 📂 Project Structure
+```text
 Ecommerce-SQL-Project/
 │
-├── data/ # CSV files
-├── scripts/ # SQL scripts
-└── README.md # Project documentation
+├── data/      # CSV files
+├── scripts/   # SQL scripts
+└── README.md  # Project documentation
 
 ### Customer, Product, and Sales Trends: Key Insights from 2010–2014
 
